@@ -1,0 +1,16 @@
+{
+  "name": "biopython_2",
+  "version": "1.0.0",
+  "description": "A cool package that does bio python",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "capstone1234",
+  "license": "ISC",
+  "files": [
+    "dependencies/"
+  ],
+  "dependencies": {
+  }
+}
